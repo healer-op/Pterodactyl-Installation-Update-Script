@@ -6,9 +6,9 @@ antiddos script:
 
 # custom hosting pages
 
-| col 1      | col 2      |
+| dark      | light     |
 |------------|-------------|
-| <img src="https://i.imgur.com/RqCBq3V.jpg"> | <img src="https://i.imgur.com/j6dq1eI.gif"> |
+| <img src="https://i.imgur.com/ZGNMlfN.png"> | <img src="https://i.imgur.com/a2FUPov.png"> |
 
 `>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> contact me  on discord healer#0001<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<`
 
