@@ -1,4 +1,4 @@
-# Pterodactyl-Installation-Update-Script
+# Pterodactyl-Installation-Update-Script-theme
 ✨All Major Operating Systems
 
 antiddos script:
