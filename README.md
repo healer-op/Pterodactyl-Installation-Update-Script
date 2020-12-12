@@ -18,8 +18,9 @@ As the title says, it will install & upgrade the Pterodactyl Panel (https://pter
 My goal is to make the script as configurable as possible, to support as many operating systems as possible and to use the latest software on the market. Right now it will install:
 
 The Latest Panel and Wings(NextGen Daemon) Are recommended,
-However you still have the option of using the old daemon and panel
-The latest phpMyAdmin
+However you still have the option of using the old daemon and panel </br>
+You also get 
+The latest phpMyAdmin, and </br>
 Fonix's themes
 
 The script also uses the latest dependencies (MariaDB 10.4, PHP 7.3, NodeJS 10) for its installation.
