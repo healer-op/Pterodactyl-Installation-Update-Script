@@ -4,6 +4,14 @@
 antiddos script:
 `bash <(curl -sSL https://raw.githubusercontent.com/healer-op/Pterodactyl-Installation-Update-Script/main/install.sh)`
 
+# custom hosting pages
+
+| col 1      | col 2      |
+|------------|-------------|
+| <img src="https://i.imgur.com/RqCBq3V.jpg"> | <img src="https://i.imgur.com/j6dq1eI.gif"> |
+
+`>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> contact me for custom designs on discord healer#0001`
+
 What does this script do?
 As the title says, it will install & upgrade the Pterodactyl Panel (https://pterodactyl.io) for you!
 
