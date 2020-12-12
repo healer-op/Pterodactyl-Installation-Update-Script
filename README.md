@@ -1,7 +1,7 @@
 # Pterodactyl-Installation-Update-Script-theme
 ✨All Major Operating Systems
 
-antiddos script:
+Installation script:
 `bash <(curl -sSL https://raw.githubusercontent.com/healer-op/Pterodactyl-Installation-Update-Script/main/install.sh)`
 
 # custom hosting pages
@@ -17,9 +17,8 @@ As the title says, it will install & upgrade the Pterodactyl Panel (https://pter
 
 My goal is to make the script as configurable as possible, to support as many operating systems as possible and to use the latest software on the market. Right now it will install:
 
-The latest panel (0.7.18)
-The latest daemon (0.6.13)
-The latest standalone SFTP (1.0.5)
+The Latest Panel and Wings(NextGen Daemon) Are recommended,
+However you still have the option of using the old daemon and panel
 The latest phpMyAdmin
 Fonix's themes
 
