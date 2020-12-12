@@ -2,7 +2,7 @@
 ✨All Major Operating Systems
 
 antiddos script:
-`bash <(curl -sSL https://raw.githubusercontent.com/ad1tya2/Pterodactyl-Script/master/install.sh)`
+`bash <(curl -sSL https://raw.githubusercontent.com/healer-op/Pterodactyl-Installation-Update-Script/main/install.sh)`
 
 What does this script do?
 As the title says, it will install & upgrade the Pterodactyl Panel (https://pterodactyl.io) for you!
