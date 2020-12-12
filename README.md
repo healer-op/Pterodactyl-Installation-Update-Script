@@ -10,7 +10,7 @@ antiddos script:
 |------------|-------------|
 | <img src="https://i.imgur.com/RqCBq3V.jpg"> | <img src="https://i.imgur.com/j6dq1eI.gif"> |
 
-`>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> contact me for custom designs on discord healer#0001`
+`>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> contact me  on discord healer#0001<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<`
 
 What does this script do?
 As the title says, it will install & upgrade the Pterodactyl Panel (https://pterodactyl.io) for you!
