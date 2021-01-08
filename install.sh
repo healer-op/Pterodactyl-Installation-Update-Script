@@ -185,7 +185,6 @@ install_options(){
     output "[21] Emergency MariaDB root password reset."
     output "[22] Emergency database host information reset."
     read choice
-    curl -sSL https://raw.githubusercontent.com/ad1tya2/Pterodactyl-Script/master/bin/fix.sh | sudo bash
     case $choice in
         1 ) installoption=1
             output "You have selected ${PANEL} panel installation only."
